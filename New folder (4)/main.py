@@ -1,7 +1,7 @@
 import discord
 from PIL import Image
 
-key="MTAxOTIzOTA2NTcwMDI3NDIzNg.G3iGqq.9LuZgliYoG31j3hgadwhQRLXO0I2x5G_Rd-lrA"
+key="Your Token Code"
 
 
 intents = discord.Intents.default()
