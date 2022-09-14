@@ -1,0 +1,3 @@
+MTAxOTIzOTA2NTcwMDI3NDIzNg.G3iGqq.9LuZgliYoG31j3hgadwhQRLXO0I2x5G_Rd-lrA
+
+client = discord.Client(intents = discord.Intents.default())
